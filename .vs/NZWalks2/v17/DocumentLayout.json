@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|c:\\users\\moataz\\desktop\\.net study\\nzwalks2\\nzwalks2.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|solutionrelative:nzwalks2.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|c:\\users\\moataz\\desktop\\.net study\\nzwalks2\\nzwalks2.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|solutionrelative:nzwalks2.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|c:\\users\\moataz\\desktop\\.net study\\nzwalks2\\nzwalks2.api\\repositories\\iregionrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|solutionrelative:nzwalks2.api\\repositories\\iregionrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|c:\\users\\moataz\\desktop\\.net study\\nzwalks2\\nzwalks2.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|solutionrelative:nzwalks2.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|c:\\users\\moataz\\desktop\\.net study\\nzwalks2\\nzwalks2.api\\dtos\\addwalksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA826E-4823-4644-B584-DD4C30D0C689}|NZWalks2.API\\NZWalks2.API.csproj|solutionrelative:nzwalks2.api\\dtos\\addwalksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -42,41 +42,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "NZWalks2.API\\Controllers\\RegionsController.cs",
-              "ToolTip": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "NZWalks2.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwI8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T16:52:27.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SQLRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Repositories\\SQLRegionRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks2.API\\Repositories\\SQLRegionRepository.cs",
-              "ToolTip": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Repositories\\SQLRegionRepository.cs",
-              "RelativeToolTip": "NZWalks2.API\\Repositories\\SQLRegionRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowD0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T16:51:08.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IRegionRepositry.cs",
-              "DocumentMoniker": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Repositories\\IRegionRepositry.cs",
-              "RelativeDocumentMoniker": "NZWalks2.API\\Repositories\\IRegionRepositry.cs",
-              "ToolTip": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Repositories\\IRegionRepositry.cs",
-              "RelativeToolTip": "NZWalks2.API\\Repositories\\IRegionRepositry.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAIAAAAAAAAAA==",
+              "Title": "AddWalksRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\DTOS\\AddWalksRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks2.API\\DTOS\\AddWalksRequestDto.cs",
+              "ToolTip": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\DTOS\\AddWalksRequestDto.cs",
+              "RelativeToolTip": "NZWalks2.API\\DTOS\\AddWalksRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T08:58:00.05Z",
+              "WhenOpened": "2025-02-03T17:49:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks2.API\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\moataz\\Desktop\\.Net study\\NZWalks2\\NZWalks2.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks2.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:47:38.843Z",
               "EditorCaption": ""
             }
           ]
